@@ -43,13 +43,13 @@ cd task-expense-tracker
 ### 2. Run the application
 
 ```bash
-python main.py
+python expense.py
 ```
 
 On Windows, you can also use:
 
 ```powershell
-py main.py
+py expense.py
 ```
 
 The application creates `tracker.db` and its required tables automatically when run for the first time.
